@@ -1,0 +1,32 @@
+body{
+  background-color:azure;
+}
+h1{
+  position:absolute;
+  text-align:center;
+  background-color:firebrick;
+  width:18%;
+  color:azure;
+  left:100px;
+  left:41%;
+}
+p{
+  position:absolute;
+  text-align:center;
+  background-color:firebrick;
+  width:18%;
+  color:azure;
+  left:100px;
+  left:41%;
+  top:9%;
+}
+.button-property1{
+  position:absolute;
+  top:15%;
+  left:46%;
+}
+.button-property2{
+  position:absolute;
+  top:15%;
+  left:51%;
+}
